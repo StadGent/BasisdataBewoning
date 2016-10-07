@@ -33,7 +33,7 @@ Dit werk (<span property="dct:title">Dataproces Basisdata Bewoning</span>, by <s
 5.	Open de FME workspace BATCH_BEW.fmw. 
 6.	Bepaal parameters:
  * Toestand: geef de toestandsdatum (%Y%m%d)
- * GeolocatorRequestURL: geef hier de url van de geolocator request (samenstelling volledige request, zie 001_BEW_BevolkingsReg_CRAB.fmw)
+ * GeolocatorRequestURL (optioneel): geef hier de url van de geolocator request (samenstelling volledige request, zie 001_BEW_BevolkingsReg_CRAB.fmw)
  * municipality: geef hier de naam van de gemeente (zoals weergegeven in de eigenaarsadressen in KADlegger_owner.csv)
 7.	Start het proces. De resultaten bevinden zich na afloop in de folder *\data\output*. 
 
