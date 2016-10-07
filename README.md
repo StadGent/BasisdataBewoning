@@ -4,7 +4,7 @@ This repository contains a series of FME workspaces for the data processing of t
 Het dataproces Basisdata Bewoning bestaat uit opeenvolgende FME-processen die lokale besturen toelaten uit de basisdata van het Kadaster, het Centraal Referentie Adressenbestand (CRAB) en het gemeentelijk Bevolkingsregister, afgeleide datasets te genereren die informatie bevatten in verband met bewoning, bebouwing en eigendommen.  Het resultaat van het dataproces bestaat uit 7 afgeleide databronnen die via unieke sleutels aan elkaar kunnen worden gekoppeld.  Deze afgeleide datasets kunnen worden gebruikt voor (geografische) analyses en het genereren van statistieken en tabellen die een antwoord geven op vragen zoals "hoeveel kinderen van 6 t.e.m. 12 jaar wonen in een huis in open bebouwing?", "hoeveel wooneenheden in flatgebouwen of buildings bevinden zich binnen 400m loopafstand van een bepaalde voorziening (bvb. park)?", "hoeveel woningen in een bepaalde wijk dateren van voor 1960 en worden bewoond door de eigenaar(s)?". 
 
 ## Privacy
-Zowel de vereiste originele databronnen als de resulterende datasets kunnen vertrouwelijke informatie bevatten. Bij gebruik van dit dataproces en de resulterende datasets moet worden rekening gehouden met de geldende wetgeving en de vereiste bevoegdheden m.b.t. de bescherming van de privacy.
+Zowel de originele databronnen als de resulterende datasets kunnen vertrouwelijke informatie bevatten. Bij gebruik van dit dataproces en de resulterende datasets moet worden rekening gehouden met de geldende wetgeving en de vereiste bevoegdheden m.b.t. de bescherming van de privacy.
 
 ## Hergebruik
 <p xmlns:dct="http://purl.org/dc/terms/">
