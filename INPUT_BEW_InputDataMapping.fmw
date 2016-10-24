@@ -5,56 +5,56 @@
 #    Command-line to run this workspace:
 #    
 #    
-#    "C:\Program Files\FME2016_1_1\fme.exe" "X:\GIS data\0 Referentielagen\Sleutellagen\Bewoning\2014\FME_BEW_BASISDATA_github\fme\INPUT_BEW_InputDataMapping.fmw"
+#    "C:\Program Files\FME2016_1_1\fme.exe" "X:\GIS data\0 Referentielagen\Sleutellagen\Bewoning\2015\FME_BEW_BASISDATA\fme\INPUT_BEW_InputDataMapping.fmw"
 #          --DestDataset_2 "..\data\input"
 #          --DestDataset_FFS "..\data\intermediate\000\000_KAD.ffs"
 #    
 #    
-#!   EXPLICIT_BOOKMARK_ORDER="false"
-#!   PASSWORD=""
-#!   END_PYTHON=""
-#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
-#!   DESCRIPTION="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:9pt;&quot;&gt;Gebruik deze workspace voor het mappen van je eigen brondata naar de gewenste datastructuur voor het Dataproces Bewoning. &lt;/span&gt;&#10;&lt;/p&gt;&#10;"
-#!   DESTINATION_ROUTING_FILE=""
-#!   LAST_SAVE_DATE="2016-10-07T15:32:21"
-#!   FME_SERVER_SERVICES=""
-#!   FME_REPROJECTION_ENGINE="FME"
-#!   REDIRECT_TERMINATORS="NONE"
-#!   BEGIN_PYTHON=""
-#!   ZOOM_SCALE="63"
-#!   PYTHON_COMPATIBILITY="27"
-#!   FME_DOCUMENT_GUID="9d5fbc1f-10e3-46d8-8826-83fed49992c7"
-#!   FME_STROKE_MAX_DEVIATION="0"
-#!   VIEW_POSITION="-64.4848 317.463"
+#!   REQUIREMENTS_KEYWORD="none"
+#!   HISTORY="2016-10-06,Jonas&lt;space&gt;Verstraete,Initial&lt;space&gt;version,2016-10-21,Jonas&lt;space&gt;Verstraete,Update&lt;space&gt;to&lt;space&gt;new&lt;space&gt;cadastre&lt;space&gt;datastructure"
+#!   SOURCE="NONE"
 #!   SHOW_INFO_NODES="true"
 #!   MULTI_WRITER_DATASET_ORDER="BY_ID"
-#!   IGNORE_READER_FAILURE="No"
-#!   DESTINATION="NONE"
-#!   END_TCL=""
-#!   DOC_EXTENTS="2556.28 9663.83"
-#!   ATTR_TYPE_ENCODING="SDF"
-#!   CATEGORY=""
-#!   REQUIREMENTS_KEYWORD="none"
-#!   FME_GEOMETRY_HANDLING="Enhanced"
-#!   FME_DOCUMENT_PRIORGUID="6b0f71ef-677f-4396-9bba-7b98cf4ed6e3,80eabd16-7fd0-43a7-992a-3bd591356c72,02de9918-e7cc-483e-a58d-7f83100c7630,a0acd454-b4db-43e6-ad5a-14c2868abe17,59f8d3d9-0e3c-4fe5-aa90-f360e6d8a242,c5b7ef68-d179-4e92-8a17-7500ef2f6730,843f00dd-6206-498a-89c8-e76751325a61,23c2cd5a-1037-4174-9aeb-6c4b10824b35,d52db021-f716-4f55-a04e-c76562356321,5d325c18-16a6-407e-b98b-840d6e89f24a"
+#!   SHOW_ANNOTATIONS="true"
 #!   USAGE="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
 #!   LOG_MAX_RECORDED_FEATURES="200"
-#!   SOURCE="NONE"
-#!   LOG_FILE=""
-#!   WARN_INVALID_XFORM_PARAM="Yes"
-#!   SHOW_ANNOTATIONS="true"
-#!   LEGAL_TERMS_CONDITIONS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#!   HISTORY="2016-10-06,Jonas&lt;space&gt;Verstraete,Initial&lt;space&gt;version"
-#!   MAX_LOG_FEATURES="200"
+#!   FME_GEOMETRY_HANDLING="Enhanced"
 #!   TERMINATE_REJECTED="YES"
-#!   FME_BUILD_NUM="16609"
-#!   TITLE="INPUT_BEW_InputDataMapping"
-#!   WORKSPACE_VERSION="1"
-#!   LAST_SAVE_BUILD="FME(R) 2016.1.1.0 (20160722 - Build 16609 - WIN64)"
+#!   FME_SERVER_SERVICES=""
+#!   LOG_FILE=""
 #!   BEGIN_TCL=""
+#!   PASSWORD=""
+#!   FME_DOCUMENT_GUID="8945506f-0160-4880-a52d-0ac10b2e31ca"
 #!   SOURCE_ROUTING_FILE=""
+#!   IGNORE_READER_FAILURE="No"
+#!   LEGAL_TERMS_CONDITIONS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#!   BEGIN_PYTHON=""
+#!   VIEW_POSITION="132.474 495.929"
+#!   ZOOM_SCALE="92"
+#!   DESTINATION_ROUTING_FILE=""
+#!   ATTR_TYPE_ENCODING="SDF"
+#!   FME_STROKE_MAX_DEVIATION="0"
+#!   MAX_LOG_FEATURES="200"
+#!   PYTHON_COMPATIBILITY="27"
+#!   DESCRIPTION="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:9pt;&quot;&gt;Gebruik deze workspace voor het mappen van je eigen brondata naar de gewenste datastructuur voor het Dataproces Bewoning. &lt;/span&gt;&#10;&lt;/p&gt;&#10;"
+#!   DOC_EXTENTS="2556.28 9663.83"
+#!   LAST_SAVE_BUILD="FME(R) 2016.1.1.0 (20160722 - Build 16609 - WIN64)"
+#!   CATEGORY=""
 #!   DOC_TOP_LEFT="276.565 -9345.73"
+#!   WORKSPACE_VERSION="1"
+#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   FME_REPROJECTION_ENGINE="FME"
 #!   REQUIREMENTS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#!   END_PYTHON=""
+#!   DESTINATION="NONE"
+#!   FME_BUILD_NUM="16609"
+#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   FME_DOCUMENT_PRIORGUID="6b0f71ef-677f-4396-9bba-7b98cf4ed6e3,80eabd16-7fd0-43a7-992a-3bd591356c72,02de9918-e7cc-483e-a58d-7f83100c7630,a0acd454-b4db-43e6-ad5a-14c2868abe17,59f8d3d9-0e3c-4fe5-aa90-f360e6d8a242,c5b7ef68-d179-4e92-8a17-7500ef2f6730,843f00dd-6206-498a-89c8-e76751325a61,23c2cd5a-1037-4174-9aeb-6c4b10824b35,d52db021-f716-4f55-a04e-c76562356321,5d325c18-16a6-407e-b98b-840d6e89f24a,9d5fbc1f-10e3-46d8-8826-83fed49992c7,38d747d8-bfef-41f4-910b-197d02a83fc2"
+#!   LAST_SAVE_DATE="2016-10-21T14:16:46"
+#!   REDIRECT_TERMINATORS="NONE"
+#!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   END_TCL=""
+#!   TITLE="INPUT_BEW_InputDataMapping"
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -70,7 +70,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_dataset char(50) fme_primary_axis number(31,15) fme_geometry fme_char(50) fme_sweep_angle number(31,15) fme_color char(50) fme_basename char(50) fme_rotation number(31,15) fme_text_string char(50) fme_type char(50) fme_fill_color char(50) fme_feature_type char(50) fme_text_size number(31,15) shape_measures char(254) fme_start_angle number(31,15) fme_secondary_axis number(31,15)"
+#!   EXPOSABLE_ATTRS="fme_feature_type char(50) fme_primary_axis number(31,15) fme_text_string char(50) fme_fill_color char(50) fme_geometry fme_char(50) fme_color char(50) fme_text_size number(31,15) fme_basename char(50) shape_measures char(254) fme_rotation number(31,15) fme_type char(50) fme_dataset char(50) fme_sweep_angle number(31,15) fme_start_angle number(31,15) fme_secondary_axis number(31,15)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="INDEX"
 #!   ATTR_NAME_INVALID_CHARS=". -%[]&quot;!?*&apos;&amp;\/{}"
@@ -79,8 +79,8 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE=""
 #!   GENERATE_FME_BUILD_NUM="15480"
-#!   COORDSYS=""
 #!   FANOUT_EXPRESSION="&lt;Unused&gt;"
+#!   COORDSYS=""
 #!   FANOUT_GROUP="NO"
 #! >
 #! <METAFILE_PARAMETER
@@ -90,6 +90,10 @@
 #! <METAFILE_PARAMETER
 #!   NAME="DATASET_NAME"
 #!   VALUE="shp file"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="READER_DATASET_HINT"
+#!   VALUE="Select the Esri Shape file(s)"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_NAME"
@@ -103,17 +107,13 @@
 #!   NAME="WRITER_DATASET_HINT"
 #!   VALUE="Specify a folder for the Esri Shape file"
 #! />
-#! <METAFILE_PARAMETER
-#!   NAME="READER_DATASET_HINT"
-#!   VALUE="Select the Esri Shape file(s)"
-#! />
 #! </DATASET>
 #! <DATASET
 #!   IS_SOURCE="false"
 #!   ROLE="WRITER"
 #!   FORMAT="CSV"
 #!   DATASET="$(DestDataset_2)"
-#!   KEYWORD="CSV_4"
+#!   KEYWORD="CSV_1"
 #!   MULTI_GEOM_ALLOWED="true"
 #!   ATTR_MAX_LENGTH="0"
 #!   ATTR_CASE="ANY"
@@ -121,7 +121,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="csv_append_mode INHERIT_FROM_WRITER csv_field_names INHERIT_FROM_WRITER"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_dataset text fme_primary_axis float fme_geometry fme_char(50) csv_type char(50) fme_sweep_angle float fme_color text fme_basename text fme_rotation float fme_text_string text fme_type text fme_fill_color text fme_feature_type text fme_text_size float fme_start_angle float fme_secondary_axis float"
+#!   EXPOSABLE_ATTRS="fme_feature_type text fme_primary_axis float fme_text_string text fme_fill_color text csv_type char(50) fme_geometry fme_char(50) fme_color text fme_text_size float fme_basename text fme_rotation float fme_type text fme_dataset text fme_sweep_angle float fme_start_angle float fme_secondary_axis float"
 #!   DEFLINE_PARMS="&quot;GUI NAMEDGROUP csv_layer_group csv_append_mode%csv_field_names File Settings&quot; &quot;&quot; &quot;GUI OPTIONAL CHOICE csv_append_mode INHERIT_FROM_WRITER%yes%no Append to File&quot; INHERIT_FROM_WRITER &quot;GUI OPTIONAL CHOICE csv_field_names INHERIT_FROM_WRITER%yes%no Output Field Names&quot; INHERIT_FROM_WRITER "
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS="&quot;*{}$"
@@ -130,45 +130,45 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="FILEDIR"
 #!   GENERATE_FME_BUILD_NUM="16609"
-#!   COORDSYS=""
 #!   FANOUT_EXPRESSION=""
+#!   COORDSYS=""
 #!   FANOUT_GROUP="NO"
 #! >
 #! <METAFILE_PARAMETER
-#!   NAME="ADVANCED_PARMS"
-#!   VALUE="_ENCODING CSV_OUT_ENCODING _WRITE_UTF8_BOM"
-#! />
-#! <METAFILE_PARAMETER
 #!   NAME="DEFAULT_ATTR_TYPE"
 #!   VALUE="auto"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="ADVANCED_PARMS"
+#!   VALUE="_ENCODING CSV_OUT_ENCODING _WRITE_UTF8_BOM"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="DATASET_NAME"
 #!   VALUE="csv file"
 #! />
 #! <METAFILE_PARAMETER
+#!   NAME="READER_DATASET_HINT"
+#!   VALUE="Select the CSV file(s)"
+#! />
+#! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_NAME"
 #!   VALUE="CSV File"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="READER_FEATURE_TYPE_EDITING"
-#!   VALUE="NO"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
-#!   VALUE="File1"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="MIME_TYPE"
 #!   VALUE="text/csv ADD_DISPOSITION"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="WRITER_DATASET_HINT"
-#!   VALUE="Specify a folder for the CSV file"
+#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
+#!   VALUE="File1"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="READER_DATASET_HINT"
-#!   VALUE="Select the CSV file(s)"
+#!   NAME="READER_FEATURE_TYPE_EDITING"
+#!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="WRITER_DATASET_HINT"
+#!   VALUE="Specify a folder for the CSV file"
 #! />
 #! </DATASET>
 #! <DATASET
@@ -184,7 +184,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_dataset char(50) fme_primary_axis real64 fme_geometry fme_char(50) fme_sweep_angle real64 fme_color char(50) fme_basename char(50) fme_rotation real64 fme_text_string char(50) fme_type char(50) fme_fill_color char(50) fme_feature_type char(50) fme_text_size real64 fme_start_angle real64 fme_secondary_axis real64"
+#!   EXPOSABLE_ATTRS="fme_feature_type char(50) fme_primary_axis real64 fme_text_string char(50) fme_fill_color char(50) fme_geometry fme_char(50) fme_color char(50) fme_text_size real64 fme_basename char(50) fme_rotation real64 fme_type char(50) fme_dataset char(50) fme_sweep_angle real64 fme_start_angle real64 fme_secondary_axis real64"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -193,8 +193,8 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="FILE"
 #!   GENERATE_FME_BUILD_NUM="16167"
-#!   COORDSYS="EPSG:31370"
 #!   FANOUT_EXPRESSION="&lt;Unused&gt;"
+#!   COORDSYS="EPSG:31370"
 #!   FANOUT_GROUP="NO"
 #! >
 #! <METAFILE_PARAMETER
@@ -202,12 +202,12 @@
 #!   VALUE="ffs file"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="WRITER_DATASET_HINT"
-#!   VALUE="Specify a name for the FFS file"
-#! />
-#! <METAFILE_PARAMETER
 #!   NAME="READER_DATASET_HINT"
 #!   VALUE="Select the FFS file(s)"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="WRITER_DATASET_HINT"
+#!   VALUE="Specify a name for the FFS file"
 #! />
 #! </DATASET>
 #! </DATASETS>
@@ -1053,7 +1053,7 @@
 #!   BOUNDING_RECT="2208.26 -1178.04 -1 -1"
 #!   ORDER="5e+14"
 #!   COLLAPSED="false"
-#!   KEYWORD="CSV_4"
+#!   KEYWORD="CSV_1"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
@@ -1065,8 +1065,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="NISGemeenteCode" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="Gemeente" ATTR_TYPE="char(50)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
-#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1079,8 +1079,8 @@
 #!   POSITION="2208.26 -546.92"
 #!   BOUNDING_RECT="2208.26 -546.92 -1 -1"
 #!   ORDER="5e+14"
-#!   COLLAPSED="true"
-#!   KEYWORD="CSV_4"
+#!   COLLAPSED="false"
+#!   KEYWORD="CSV_1"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
@@ -1104,8 +1104,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="wijknaam" ATTR_TYPE="char(30)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="gemeensch" ATTR_TYPE="char(12)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
-#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1119,7 +1119,7 @@
 #!   BOUNDING_RECT="2174.31 -2611.97 -1 -1"
 #!   ORDER="5e+14"
 #!   COLLAPSED="true"
-#!   KEYWORD="CSV_4"
+#!   KEYWORD="CSV_1"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
@@ -1134,8 +1134,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="ORGANISATIE" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="BEWERKING" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
-#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1149,7 +1149,7 @@
 #!   BOUNDING_RECT="2174.31 -3338.7 -1 -1"
 #!   ORDER="5e+14"
 #!   COLLAPSED="true"
-#!   KEYWORD="CSV_4"
+#!   KEYWORD="CSV_1"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
@@ -1165,8 +1165,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="ORGANISATIE" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="BEWERKING" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
-#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1180,7 +1180,7 @@
 #!   BOUNDING_RECT="2174.31 -4018.28 -1 -1"
 #!   ORDER="5e+14"
 #!   COLLAPSED="true"
-#!   KEYWORD="CSV_4"
+#!   KEYWORD="CSV_1"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
@@ -1198,8 +1198,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="BEWERKING" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="SSMA_TimeStamp" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
-#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1213,7 +1213,7 @@
 #!   BOUNDING_RECT="2174.31 -4709.35 -1 -1"
 #!   ORDER="5e+14"
 #!   COLLAPSED="true"
-#!   KEYWORD="CSV_4"
+#!   KEYWORD="CSV_1"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
@@ -1232,8 +1232,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="ORGANISATIE" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="BEWERKING" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
-#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1247,7 +1247,7 @@
 #!   BOUNDING_RECT="2174.31 -5444.53 -1 -1"
 #!   ORDER="5e+14"
 #!   COLLAPSED="true"
-#!   KEYWORD="CSV_4"
+#!   KEYWORD="CSV_1"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
@@ -1261,8 +1261,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="ORGANISATIE" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="BEWERKING" ATTR_TYPE="int" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
-#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1301,7 +1301,7 @@
 #!   BOUNDING_RECT="2174.31 -8306.3 -1 -1"
 #!   ORDER="5e+14"
 #!   COLLAPSED="false"
-#!   KEYWORD="CSV_4"
+#!   KEYWORD="CSV_1"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
@@ -1310,8 +1310,8 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="Description_Fr" ATTR_TYPE="char(21)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="Beschrijving_Nl" ATTR_TYPE="char(19)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
-#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1321,11 +1321,11 @@
 #!   IS_EDITABLE="true"
 #!   IDENTIFIER="78"
 #!   FEAT_GEOMTYPE="All"
-#!   POSITION="2174.31 -7634.59"
-#!   BOUNDING_RECT="2174.31 -7634.59 -1 -1"
+#!   POSITION="2174.31 -7594.66"
+#!   BOUNDING_RECT="2174.31 -7594.66 -1 -1"
 #!   ORDER="5e+14"
 #!   COLLAPSED="true"
-#!   KEYWORD="CSV_4"
+#!   KEYWORD="CSV_1"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
@@ -1348,8 +1348,10 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="crossDetail" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="matUtil" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="notTaxedMatUtil" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="nisCom" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="street_situation" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="street_translation" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="street_code" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="number" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="polWa" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="surfaceNotTaxable" ATTR_TYPE="number(10,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
@@ -1378,9 +1380,10 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="placeNumber" ATTR_TYPE="number(4,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="builtSurface" ATTR_TYPE="number(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="usedSurface" ATTR_TYPE="number(5,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="dateSituation" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
-#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1394,7 +1397,7 @@
 #!   BOUNDING_RECT="2174.31 -6883.71 -1 -1"
 #!   ORDER="5e+14"
 #!   COLLAPSED="true"
-#!   KEYWORD="CSV_4"
+#!   KEYWORD="CSV_1"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
@@ -1403,6 +1406,7 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="order" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="partyType" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="right" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="right_trad" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="managedBy" ATTR_TYPE="number(2,0)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="officialId" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="name" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
@@ -1410,8 +1414,10 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="birthdate" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="country" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="zipCode" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="municipality" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="street" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="municipality_fr" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="municipality_nl" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="street_fr" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="street_nl" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="number" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="boxNumber" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="officialId_partner" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
@@ -1420,15 +1426,18 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="birthdate_partner" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="country_partner" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="zipCode_partner" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="municipality_partner" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="street_partner" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="municipality_partner_fr" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="municipality_partner_nl" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="street_partner_fr" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="street_partner_nl" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="number_partner" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="boxNumber_partner" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="coOwner" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="anonymousOwner" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="dateSituation" ATTR_TYPE="text" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_field_names" PARM_VALUE="INHERIT_FROM_WRITER"/>
-#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="csv_append_mode" PARM_VALUE="INHERIT_FROM_WRITER"/>
+#!     <DEFLINE_PARM PARM_NAME="csv_layer_group" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
@@ -1757,17 +1766,6 @@
 #!   CONTENTS="79 "
 #! />
 #! <BOOKMARK
-#!   IDENTIFIER="59"
-#!   NAME="Kadastrale legger tabel parcel"
-#!   DESCRIPTION="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   TOP_LEFT="281.253 -7321.25"
-#!   BOTTOM_RIGHT="1078.14 -7930.63"
-#!   BOUNDING_RECT="281.253 -7321.25 796.883 609.381"
-#!   STICKY="true"
-#!   COLOUR="0.184314,0.501961,0.529412"
-#!   CONTENTS=""
-#! />
-#! <BOOKMARK
 #!   IDENTIFIER="60"
 #!   NAME="KAD_parcel"
 #!   DESCRIPTION="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
@@ -1802,7 +1800,7 @@
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="80"
-#!   NAME="Codelijst nature kadastrale legger"
+#!   NAME="Handelspanden"
 #!   DESCRIPTION="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   TOP_LEFT="281.253 -8736.35"
 #!   BOTTOM_RIGHT="1078.14 -9345.73"
@@ -1813,7 +1811,7 @@
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="81"
-#!   NAME="KADnature_codelist"
+#!   NAME="Handelspanden"
 #!   DESCRIPTION="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   TOP_LEFT="2035.96 -8736.35"
 #!   BOTTOM_RIGHT="2832.84 -9345.73"
@@ -1822,14 +1820,25 @@
 #!   COLOUR="0.184314,0.501961,0.529412"
 #!   CONTENTS="85 "
 #! />
+#! <BOOKMARK
+#!   IDENTIFIER="59"
+#!   NAME="Kadastrale legger tabel parcel"
+#!   DESCRIPTION="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   TOP_LEFT="281.253 -7321.25"
+#!   BOTTOM_RIGHT="1078.14 -7930.63"
+#!   BOUNDING_RECT="281.253 -7321.25 796.883 609.381"
+#!   STICKY="true"
+#!   COLOUR="0.184314,0.501961,0.529412"
+#!   CONTENTS=""
+#! />
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
 #! <TRANSFORMER
 #!   IDENTIFIER="14"
 #!   TYPE="AttributeRenamer"
 #!   VERSION="4"
-#!   POSITION="1390.29 -1178.04"
-#!   BOUNDING_RECT="1390.29 -1178.04 -1 -1"
+#!   POSITION="1383.5 -1178.04"
+#!   BOUNDING_RECT="1383.5 -1178.04 -1 -1"
 #!   ORDER="5e+14"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -1838,9 +1847,9 @@
 #!     <OUTPUT_FEAT NAME="OUTPUT"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="SubkantonC SubkantonCode RENAME_SET_DEFAULT  NISGemeent NISGemeenteCode RENAME_SET_DEFAULT "/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="SubkantonC SubkantonCode RENAME_SET_DEFAULT  NISGemeent NISGemeenteCode RENAME_SET_DEFAULT "/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="70"
@@ -1856,37 +1865,9 @@
 #!     <OUTPUT_FEAT NAME="OUTPUT"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="Code&lt;space&gt;aard&lt;solidus&gt;nature Code_aard_nature RENAME_SET_DEFAULT  Description&lt;space&gt;Fran&lt;u00e7&gt;ais Description_Fr RENAME_SET_DEFAULT  Beschrijving&lt;space&gt;Nederlands Beschrijving_Nl RENAME_SET_DEFAULT "/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer_2"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#!   IDENTIFIER="83"
-#!   TYPE="Inspector"
-#!   VERSION="3"
-#!   POSITION="1349.44 -8920.82"
-#!   BOUNDING_RECT="1349.44 -8920.82 -1 -1"
-#!   ORDER="5e+14"
-#!   PARMS_EDITED="false"
-#!   ENABLED="true"
-#!   LAST_PARM_EDIT="16609"
-#! >
-#!     <XFORM_PARM PARM_NAME="RASTER_VISUALIZATION_OPTION" PARM_VALUE="No Reduction"/>
-#!     <XFORM_PARM PARM_NAME="THINNER_MAX_NUM_POINTS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="PEN_COLOR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="RASTER_NUM_COLS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="RASTER_NUM_ROWS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="THINNER_INTERVAL" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="AREA_COLOR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="POINTCLOUD_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="VECTOR_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GISWRITER.ECO_VECDETAILHANDEL"/>
-#!     <XFORM_PARM PARM_NAME="TACKATTRS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="THINNER_TYPE_DISPLAY" PARM_VALUE="No Thinning"/>
-#!     <XFORM_PARM PARM_NAME="RASTER_START_ROW" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="RASTER_START_COL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="Code&lt;space&gt;aard&lt;solidus&gt;nature Code_aard_nature RENAME_SET_DEFAULT  Description&lt;space&gt;Fran&lt;u00e7&gt;ais Description_Fr RENAME_SET_DEFAULT  Beschrijving&lt;space&gt;Nederlands Beschrijving_Nl RENAME_SET_DEFAULT "/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="87"
@@ -1902,9 +1883,9 @@
 #!     <OUTPUT_FEAT NAME="OUTPUT"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="DEELGEMEENTE DEELGEM RENAME_SET_DEFAULT  PRODUCTGROEP PRODGROEP RENAME_SET_DEFAULT "/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer_3"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer_3"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="DEELGEMEENTE DEELGEM RENAME_SET_DEFAULT  PRODUCTGROEP PRODGROEP RENAME_SET_DEFAULT "/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
@@ -1952,7 +1933,7 @@
 #! </LOOKUP_TABLES>
 #! </WORKSPACE>
 FME_PYTHON_VERSION 27
-GUI IGNORE DestDataset_SHAPE_1,SHAPE_OUT_ENCODING_SHAPE_1,SHAPE_OUT_WRITE_SPATIAL_INDEX_SHAPE_1,SHAPE_OUT_COMPRESSED_SHAPE_FILE_SHAPE_1,SHAPE_OUT_SHAPE_WRT_ADV_PARM_GROUP_SHAPE_1,SHAPE_OUT_STRICT_COMPATIBILITY_SHAPE_1,SHAPE_OUT_PRESERVE_RING_VERTEX_ORDER_SHAPE_1,_MEASURES_AS_Z_SHAPE_1,DestDataset_CSV_4,CSV_OUT_EXTENSION_CSV_4,CSV_OUT_APPEND_CSV_4,CSV_OUT_FIELD_NAMES_CSV_4,CSV_OUT_WRITE_SCHEMA_FILE_CSV_4,CSV_OUT_PREPEND_SCHEMA_FILE_CSV_4,CSV_OUT_SEPARATOR_CSV_4,CSV_OUT_ENCODING_CSV_4,CSV_OUT_WRITE_UTF8_BOM_CSV_4,CSV_OUT_QUOTE_OUTPUT_CSV_4,CSV_OUT_QUOTE_FIELD_NAMES_CSV_4,CSV_OUT_END_OF_LINE_CSV_4,DestDataset_FFS_1,FFS_OUT_INDEXED_FFS_1,FFS_OUT_COMPRESSION_LEVEL_FFS_1,FFS_OUT_BYTE_ORDER_FFS_1,FFS_OUT_PASSPHRASE_FFS_1,_MAX_FILE_SIZE_FFS_1,_STRICT_SCHEMA_FFS_1
+GUI IGNORE DestDataset_SHAPE_1,SHAPE_OUT_ENCODING_SHAPE_1,SHAPE_OUT_WRITE_SPATIAL_INDEX_SHAPE_1,SHAPE_OUT_COMPRESSED_SHAPE_FILE_SHAPE_1,SHAPE_OUT_SHAPE_WRT_ADV_PARM_GROUP_SHAPE_1,SHAPE_OUT_STRICT_COMPATIBILITY_SHAPE_1,SHAPE_OUT_PRESERVE_RING_VERTEX_ORDER_SHAPE_1,_MEASURES_AS_Z_SHAPE_1,DestDataset_CSV_1,CSV_OUT_EXTENSION_CSV_1,CSV_OUT_APPEND_CSV_1,CSV_OUT_FIELD_NAMES_CSV_1,CSV_OUT_WRITE_SCHEMA_FILE_CSV_1,CSV_OUT_PREPEND_SCHEMA_FILE_CSV_1,CSV_OUT_SEPARATOR_CSV_1,CSV_OUT_ENCODING_CSV_1,CSV_OUT_WRITE_UTF8_BOM_CSV_1,CSV_OUT_QUOTE_OUTPUT_CSV_1,CSV_OUT_QUOTE_FIELD_NAMES_CSV_1,CSV_OUT_END_OF_LINE_CSV_1,DestDataset_FFS_1,FFS_OUT_INDEXED_FFS_1,FFS_OUT_COMPRESSION_LEVEL_FFS_1,FFS_OUT_BYTE_ORDER_FFS_1,FFS_OUT_PASSPHRASE_FFS_1,_MAX_FILE_SIZE_FFS_1,_STRICT_SCHEMA_FFS_1
 DEFAULT_MACRO DestDataset_2 ..\data\input
 GUI DIRNAME DestDataset_2 Destination Folder:
 DEFAULT_MACRO DestDataset_FFS ..\data\intermediate\000\000_KAD.ffs
@@ -1971,7 +1952,7 @@ MULTI_WRITER_FIRST_WRITER_ID 0
 MULTI_WRITER_TYPE{0} SHAPE
 MULTI_WRITER_KEYWORD{0} SHAPE_1
 MULTI_WRITER_TYPE{1} CSV
-MULTI_WRITER_KEYWORD{1} CSV_4
+MULTI_WRITER_KEYWORD{1} CSV_1
 MULTI_WRITER_TYPE{2} FFS
 MULTI_WRITER_KEYWORD{2} FFS_1
 #! END_WB_HEADER
@@ -2063,9 +2044,9 @@ SHAPE_1_ENCODING $(SHAPE_OUT_ENCODING_SHAPE_1)
 SHAPE_1_DATASET "$(DestDataset_SHAPE_1)"
 #! END_DEST_HEADER
 #! START_WB_HEADER
-MACRO WB_KEYWORD "CSV_4"
+MACRO WB_KEYWORD "CSV_1"
 #! END_WB_HEADER
-#! START_DEST_HEADER CSV CSV_4
+#! START_DEST_HEADER CSV CSV_1
 # ============================================================================
 # The following GUI line prompts for a folder where the
 # CSV files will be stored
@@ -2073,75 +2054,75 @@ MACRO WB_KEYWORD "CSV_4"
 #! START_WB_HEADER
 DEFAULT_MACRO DestDataset
 INCLUDE [ if {"$(DestDataset)" != ""} {                          \
- puts {DEFAULT_MACRO DestDataset_CSV_4 $(DestDataset)}         \
+ puts {DEFAULT_MACRO DestDataset_CSV_1 $(DestDataset)}         \
  } ]
 #! END_WB_HEADER
-#! START_DEST_HEADER CSV CSV_4
-DEFAULT_MACRO DestDataset_CSV_4 $(DestDataset_2)
-GUI DIRNAME DestDataset_CSV_4 Destination CSV (Comma Separated Value) Folder:
-CSV_4_PLUGIN_MAX_CHANNELS 100
-CSV_4_ALLOW_TYPE_TRUNCATION yes
-CSV_4_PERMISSIVE_TYPES yes
+#! START_DEST_HEADER CSV CSV_1
+DEFAULT_MACRO DestDataset_CSV_1 $(DestDataset_2)
+GUI DIRNAME DestDataset_CSV_1 Destination CSV (Comma Separated Value) Folder:
+CSV_1_PLUGIN_MAX_CHANNELS 100
+CSV_1_ALLOW_TYPE_TRUNCATION yes
+CSV_1_PERMISSIVE_TYPES yes
 # ============================================================================
 # The following determines the extension for output CSV files
-DEFAULT_MACRO CSV_OUT_EXTENSION_CSV_4 csv
-CSV_4_EXTENSION "$(CSV_OUT_EXTENSION_CSV_4)"
-GUI OPTIONAL TEXT CSV_OUT_EXTENSION_CSV_4 Extension:
+DEFAULT_MACRO CSV_OUT_EXTENSION_CSV_1 csv
+CSV_1_EXTENSION "$(CSV_OUT_EXTENSION_CSV_1)"
+GUI OPTIONAL TEXT CSV_OUT_EXTENSION_CSV_1 Extension:
 # =====================================================================
 # Allows one to append
-DEFAULT_MACRO CSV_OUT_APPEND_CSV_4 No
-CSV_4_APPEND "$(CSV_OUT_APPEND_CSV_4)"
-GUI CHECKBOX CSV_OUT_APPEND_CSV_4 Yes%No Append to File:
+DEFAULT_MACRO CSV_OUT_APPEND_CSV_1 No
+CSV_1_APPEND "$(CSV_OUT_APPEND_CSV_1)"
+GUI CHECKBOX CSV_OUT_APPEND_CSV_1 Yes%No Append to File:
 # ============================================================================
 # The following determines whether field names will be written on
 # the first row of the file.
-DEFAULT_MACRO CSV_OUT_FIELD_NAMES_CSV_4 yes
-CSV_4_FIELD_NAMES "$(CSV_OUT_FIELD_NAMES_CSV_4)"
-GUI CHECKBOX CSV_OUT_FIELD_NAMES_CSV_4 yes%no Output Field Names on First Line:
+DEFAULT_MACRO CSV_OUT_FIELD_NAMES_CSV_1 yes
+CSV_1_FIELD_NAMES "$(CSV_OUT_FIELD_NAMES_CSV_1)"
+GUI CHECKBOX CSV_OUT_FIELD_NAMES_CSV_1 yes%no Output Field Names on First Line:
 # ============================================================================
 # Write out schema.ini file (PR#58638)
-DEFAULT_MACRO CSV_OUT_WRITE_SCHEMA_FILE_CSV_4 no
-CSV_4_WRITE_SCHEMA_FILE "$(CSV_OUT_WRITE_SCHEMA_FILE_CSV_4)"
-GUI ACTIVECHOICE CSV_OUT_WRITE_SCHEMA_FILE_CSV_4 yes%no,CSV_OUT_PREPEND_SCHEMA_FILE Write Schema Configuration File
+DEFAULT_MACRO CSV_OUT_WRITE_SCHEMA_FILE_CSV_1 no
+CSV_1_WRITE_SCHEMA_FILE "$(CSV_OUT_WRITE_SCHEMA_FILE_CSV_1)"
+GUI ACTIVECHOICE CSV_OUT_WRITE_SCHEMA_FILE_CSV_1 yes%no,CSV_OUT_PREPEND_SCHEMA_FILE Write Schema Configuration File
 # ============================================================================
 # Allows for appending to existing schema.ini file (PR#58638)
-DEFAULT_MACRO CSV_OUT_PREPEND_SCHEMA_FILE_CSV_4 <Unused>
-CSV_4_PREPEND_SCHEMA_FILE "$(CSV_OUT_PREPEND_SCHEMA_FILE_CSV_4)"
-GUI CHOICE CSV_OUT_PREPEND_SCHEMA_FILE_CSV_4 yes%no Prepend To Existing Schema Configuration File
+DEFAULT_MACRO CSV_OUT_PREPEND_SCHEMA_FILE_CSV_1 <Unused>
+CSV_1_PREPEND_SCHEMA_FILE "$(CSV_OUT_PREPEND_SCHEMA_FILE_CSV_1)"
+GUI CHOICE CSV_OUT_PREPEND_SCHEMA_FILE_CSV_1 yes%no Prepend To Existing Schema Configuration File
 # ============================================================================
 # The following determines the field seperator
 # PR#19714 Changed GUI LOOKUP to STRING_OR_CHOICE for showing space and tab
 # as explicit delimiters for parsing issues and symmetry with the reader.
-DEFAULT_MACRO CSV_OUT_SEPARATOR_CSV_4 ;
-CSV_4_SEPARATOR "$(CSV_OUT_SEPARATOR_CSV_4)"
-GUI OPTIONAL STRING_OR_CHOICE CSV_OUT_SEPARATOR_CSV_4 ,%;%|%space%tab Separator Character:
+DEFAULT_MACRO CSV_OUT_SEPARATOR_CSV_1 ;
+CSV_1_SEPARATOR "$(CSV_OUT_SEPARATOR_CSV_1)"
+GUI OPTIONAL STRING_OR_CHOICE CSV_OUT_SEPARATOR_CSV_1 ,%;%|%space%tab Separator Character:
 # =====================================================================
 # Allows to set one of the character encodings for output file
-DEFAULT_MACRO CSV_OUT_ENCODING_CSV_4 
-CSV_4_ENCODING "$(CSV_OUT_ENCODING_CSV_4)"
-GUI OPTIONAL STRING_OR_ENCODING CSV_OUT_ENCODING_CSV_4 SYSTEM%* Character Encoding:
+DEFAULT_MACRO CSV_OUT_ENCODING_CSV_1 
+CSV_1_ENCODING "$(CSV_OUT_ENCODING_CSV_1)"
+GUI OPTIONAL STRING_OR_ENCODING CSV_OUT_ENCODING_CSV_1 SYSTEM%* Character Encoding:
 # =====================================================================
 # PR 15909
 # The following choice determines if the byte order mark should be written
 # when using UTF-8 encoding. By default BOM is written, so _WRITE_UTF8_BOM should be yes.
-DEFAULT_MACRO CSV_OUT_WRITE_UTF8_BOM_CSV_4 yes
-CSV_4_WRITE_UTF8_BOM "$(CSV_OUT_WRITE_UTF8_BOM_CSV_4)"
-GUI CHOICE CSV_OUT_WRITE_UTF8_BOM_CSV_4 yes%no Write UTF-8 Byte Order Mark
+DEFAULT_MACRO CSV_OUT_WRITE_UTF8_BOM_CSV_1 yes
+CSV_1_WRITE_UTF8_BOM "$(CSV_OUT_WRITE_UTF8_BOM_CSV_1)"
+GUI CHOICE CSV_OUT_WRITE_UTF8_BOM_CSV_1 yes%no Write UTF-8 Byte Order Mark
 # ============================================================================
 # Opt in for destination dataset type vs format type validation
-DEFAULT_MACRO CSV_OUT_DESTINATION_DATASETTYPE_VALIDATION_CSV_4 Yes
-CSV_4_DESTINATION_DATASETTYPE_VALIDATION "$(CSV_OUT_DESTINATION_DATASETTYPE_VALIDATION_CSV_4)"
+DEFAULT_MACRO CSV_OUT_DESTINATION_DATASETTYPE_VALIDATION_CSV_1 Yes
+CSV_1_DESTINATION_DATASETTYPE_VALIDATION "$(CSV_OUT_DESTINATION_DATASETTYPE_VALIDATION_CSV_1)"
 # =====================================================================
-DEFAULT_MACRO CSV_OUT_QUOTE_OUTPUT_CSV_4 if_needed
-CSV_4_QUOTE_OUTPUT "$(CSV_OUT_QUOTE_OUTPUT_CSV_4)"
-GUI CHOICE CSV_OUT_QUOTE_OUTPUT_CSV_4 yes%if_needed%no Quote Output Values:
-DEFAULT_MACRO CSV_OUT_QUOTE_FIELD_NAMES_CSV_4 no
-CSV_4_QUOTE_FIELD_NAMES "$(CSV_OUT_QUOTE_FIELD_NAMES_CSV_4)"
-GUI CHOICE CSV_OUT_QUOTE_FIELD_NAMES_CSV_4 yes%no Quote Field Names:
-DEFAULT_MACRO CSV_OUT_END_OF_LINE_CSV_4 
-CSV_4_END_OF_LINE "$(CSV_OUT_END_OF_LINE_CSV_4)"
-GUI OPTIONAL CHOICE CSV_OUT_END_OF_LINE_CSV_4 Windows%Unix%Macintosh Line Termination:
-CSV_4_DATASET "$(DestDataset_CSV_4)"
+DEFAULT_MACRO CSV_OUT_QUOTE_OUTPUT_CSV_1 if_needed
+CSV_1_QUOTE_OUTPUT "$(CSV_OUT_QUOTE_OUTPUT_CSV_1)"
+GUI CHOICE CSV_OUT_QUOTE_OUTPUT_CSV_1 yes%if_needed%no Quote Output Values:
+DEFAULT_MACRO CSV_OUT_QUOTE_FIELD_NAMES_CSV_1 no
+CSV_1_QUOTE_FIELD_NAMES "$(CSV_OUT_QUOTE_FIELD_NAMES_CSV_1)"
+GUI CHOICE CSV_OUT_QUOTE_FIELD_NAMES_CSV_1 yes%no Quote Field Names:
+DEFAULT_MACRO CSV_OUT_END_OF_LINE_CSV_1 
+CSV_1_END_OF_LINE "$(CSV_OUT_END_OF_LINE_CSV_1)"
+GUI OPTIONAL CHOICE CSV_OUT_END_OF_LINE_CSV_1 Windows%Unix%Macintosh Line Termination:
+CSV_1_DATASET "$(DestDataset_CSV_1)"
 #! END_DEST_HEADER
 #! START_WB_HEADER
 MACRO WB_KEYWORD "FFS_1"
@@ -2221,7 +2202,7 @@ FME_STROKE_MAX_DEVIATION 0
 MAPPING_FILE_ID INPUT_BEW_InputDataMapping
 LOG_FILTER_MASK -1
 DEFAULT_MACRO DATASET_KEYWORD_SHAPE_1 SHAPE_1
-DEFAULT_MACRO DATASET_KEYWORD_CSV_4 CSV_4
+DEFAULT_MACRO DATASET_KEYWORD_CSV_1 CSV_1
 DEFAULT_MACRO DATASET_KEYWORD_FFS_1 FFS_1
 # -------------------------------------------------------------------------
 
@@ -2232,47 +2213,37 @@ MULTI_READER_CONTINUE_ON_READER_FAILURE No
 
 MACRO WORKSPACE_NAME INPUT_BEW_InputDataMapping
 MACRO FME_VIEWER_APP fmedatainspector
-# -------------------------------------------------------------------------
-
-INCLUDE [ if {[info exists env(FME_TEMP)] && [file isdirectory $env(FME_TEMP)]} {set gVisualizerTemp $env(FME_TEMP)}  elseif {[info exists env(TEMP)] && [file isdirectory $env(TEMP)]}  {set gVisualizerTemp $env(TEMP)}  elseif { $tcl_platform(platform) == "unix" } {set gVisualizerTemp "/tmp"} else {set gVisualizerTemp c:};  regsub -all {[ ,&]} {$(WORKSPACE_NAME)} {_} wsname; set gVisualizerTemp $gVisualizerTemp/${wsname}_[clock format [clock seconds] -format %H%M%S];  puts "MACRO WORKSPACE_TEMP_DIR $gVisualizerTemp"; 
-MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/inspector.ffs
-MACRO VISUALIZER_SCHEMA_FILE $(WORKSPACE_TEMP_DIR)/inspector.fsc
-MACRO VISUALIZER_CREATE_SPATIAL_INDEX YES
 DEFAULT_MACRO WB_CURRENT_CONTEXT
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC AttributeRenamer_3_OUTPUT TO SHAPE __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Handelspanden<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_OUTPUT TO CSV __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>CRAB_RijksregisterStraat<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_2_OUTPUT TO CSV __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>KADnature_codelist<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC AttributeRenamer_3_OUTPUT TO SHAPE __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Handelspanden<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_2_OUTPUT TO CSV __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>KADnature_codelist<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeRenamer_OUTPUT TO CSV __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>CRAB_RijksregisterStraat<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
 
 # -------------------------------------------------------------------------
-
-FACTORY_DEF * CreationFactory   CREATE_AT_END   OUTPUT FEATURE_TYPE __NUKEME__   @TCL("if [file exists {$(WORKSPACE_TEMP_DIR)}] {set files [glob -nocomplain -directory  {$(WORKSPACE_TEMP_DIR)} -tails *.ffs];   if {[llength $files] == 1} {    set theFile {$(WORKSPACE_TEMP_DIR)/};   append theFile [lindex $files 0];   eval FME_Execute System \173\042$(FME_HOME_UNIX)/fmedatainspector\042 --visualizer --single-application --delete-on-close --no-source-prompt -f FFS $theFile & \175;  } elseif { [llength $files] == 0 } {  catch { file delete -force {$(WORKSPACE_TEMP_DIR)} };  } else {  set filesNoExt {}; set lastfile {}; foreach {fileName} [lsort $files] { set fileNoExt [string trimright $fileName {.ffs}]; if [regexp {(.*)_[0-9]*$} $fileNoExt wholething fileNoExtBase] {  if { $fileNoExtBase == $lastfile } { continue } }; set lastfile $fileNoExt; lappend filesNoExt $fileNoExt };  eval FME_Execute System \173\042$(FME_HOME_UNIX)/fmedatainspector\042 --visualizer --single-application --delete-on-close --no-source-prompt -d {$(WORKSPACE_TEMP_DIR)} -a ffs -f FFS $filesNoExt & \175; }; }; ")
-FACTORY_DEF * TeeFactory   INPUT FEATURE_TYPE __NUKEME__
+SHAPE_1_DEF CRAB_Percelen_CenterPoints   SHAPE_GEOMETRY               shape_point   Gewest                       char(40)   NISCode                      char(10)   Gemeente                     char(40)   Straat                       char(50)   Huisnr                       char(5)   hsnrstatus                   char(40)   capakey                      char(32)   CenterX                      number(20,10)   CenterY                      number(20,10)
 # -------------------------------------------------------------------------
 SHAPE_1_DEF B_CaPa   SHAPE_GEOMETRY               shape_polygonz   UIDN                         number(15,0)   OIDN                         number(15,0)   CAPAKEY                      char(17)   CAPATY                       char(2)   CASHKEY                      char(12)   LENGTE                       number(16,2)   OPPERVL                      number(16,2)
 # -------------------------------------------------------------------------
-SHAPE_1_DEF CRAB_Percelen_CenterPoints   SHAPE_GEOMETRY               shape_point   Gewest                       char(40)   NISCode                      char(10)   Gemeente                     char(40)   Straat                       char(50)   Huisnr                       char(5)   hsnrstatus                   char(40)   capakey                      char(32)   CenterX                      number(20,10)   CenterY                      number(20,10)
-# -------------------------------------------------------------------------
 SHAPE_1_DEF Handelspanden   SHAPE_GEOMETRY               shape_pointz   NAAM                         char(50)   STRAAT                       char(50)   HUISNR                       char(5)   HUISNRTOEV                   char(5)   POSTCODE                     char(4)   DEELGEM                      char(40)   BRANCHE                      char(50)   PRODGROEP                    char(50)
 # -------------------------------------------------------------------------
-CSV_4_DEF CRAB_RijksregisterStraat   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   StraatCode                   char(4)   StraatId                     char(5)   Straatnaam                   char(100)   SubkantonCode                char(4)   NISGemeenteCode              char(5)   Gemeente                     char(50)
+CSV_1_DEF adrespositie   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   ID                           int   ADRESID                      int   AARD                         int   OG_COORD_X                   float   OG_COORD_Y                   float   HERKOMST                     text   BEGINDATUM                   char(20)   EINDDATUM                    char(20)   TIJD                         char(20)   ORGANISATIE                  int   BEWERKING                    int   SSMA_TimeStamp               text
 # -------------------------------------------------------------------------
-CSV_4_DEF huisnummer   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   ID                           int   HUISNUMMERID                 int   STRAATNAAMID                 int   HUISNUMMER                   text   BEGINDATUM                   char(20)   EINDDATUM                    char(20)   TIJD                         char(20)   ORGANISATIE                  int   BEWERKING                    int
+CSV_1_DEF postkantoncode   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   ID                           int   HUISNUMMERID                 int   POSTKANTONCODE               int   BEGINDATUM                   char(20)   EINDDATUM                    char(20)   TIJD                         char(20)   ORGANISATIE                  int   BEWERKING                    int
 # -------------------------------------------------------------------------
-CSV_4_DEF postkantoncode   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   ID                           int   HUISNUMMERID                 int   POSTKANTONCODE               int   BEGINDATUM                   char(20)   EINDDATUM                    char(20)   TIJD                         char(20)   ORGANISATIE                  int   BEWERKING                    int
+CSV_1_DEF subadres   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   ID                           int   SUBADRESID                   int   HUISNUMMERID                 int   SUBADRES                     text   AARDSUBADRES                 int   BEGINDATUM                   char(20)   EINDDATUM                    char(20)   TIJD                         char(20)   ORGANISATIE                  int   BEWERKING                    int
 # -------------------------------------------------------------------------
-CSV_4_DEF KADnature_codelist   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   Code_aard_nature             number(4,0)   Description_Fr               char(21)   Beschrijving_Nl              char(19)
+CSV_1_DEF KADnature_codelist   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   Code_aard_nature             number(4,0)   Description_Fr               char(21)   Beschrijving_Nl              char(19)
 # -------------------------------------------------------------------------
-CSV_4_DEF subadres   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   ID                           int   SUBADRESID                   int   HUISNUMMERID                 int   SUBADRES                     text   AARDSUBADRES                 int   BEGINDATUM                   char(20)   EINDDATUM                    char(20)   TIJD                         char(20)   ORGANISATIE                  int   BEWERKING                    int
+CSV_1_DEF huisnummer   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   ID                           int   HUISNUMMERID                 int   STRAATNAAMID                 int   HUISNUMMER                   text   BEGINDATUM                   char(20)   EINDDATUM                    char(20)   TIJD                         char(20)   ORGANISATIE                  int   BEWERKING                    int
 # -------------------------------------------------------------------------
-CSV_4_DEF straatnaam   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   ID                           int   STRAATNAAMID                 int   STRAATCODE                   text   NISGEMEENTECODE              text   STRAATNAAM                   text   TAALCODESTRAATNAAM           text   STRAATNAAM2                  text   TAALCODESTRAATNAAM2          text   BEGINDATUM                   char(20)   EINDDATUM                    char(20)   TIJD                         char(20)   ORGANISATIE                  int   BEWERKING                    int
+CSV_1_DEF BevReg_extr   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   POSTKODE                     char(4)   STRAATKODE                   char(8)   NUMMER                       char(5)   INDEX                        char(5)   GEBDAT                       char(11)   GESLACHT                     char(2)   NATIONALITEIT                number(4,0)   VERWERVING                   number(3,0)   REFPERS                      char(2)   GEZINSGROOTTE                number(3,0)   AANTKIND                     number(3,0)   BURGSTAAT                    char(15)   NAT_OUD                      number(4,0)   REGISTER                     char(6)   sector                       char(5)   stadsdeel                    char(16)   wijknaam                     char(30)   gemeensch                    char(12)
 # -------------------------------------------------------------------------
-CSV_4_DEF KAD_owner   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   propertySituationIdf         text   order                        text   partyType                    text   right                        text   managedBy                    number(2,0)   officialId                   text   name                         text   firstname                    text   birthdate                    text   country                      text   zipCode                      text   municipality                 text   street                       text   number                       text   boxNumber                    text   officialId_partner           text   name_partner                 text   firstName_partner            text   birthdate_partner            text   country_partner              text   zipCode_partner              text   municipality_partner         text   street_partner               text   number_partner               text   boxNumber_partner            text   coOwner                      text   anonymousOwner               text
+CSV_1_DEF KAD_owner   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   propertySituationIdf         text   order                        text   partyType                    text   right                        text   right_trad                   text   managedBy                    number(2,0)   officialId                   text   name                         text   firstname                    text   birthdate                    text   country                      text   zipCode                      text   municipality_fr              text   municipality_nl              text   street_fr                    text   street_nl                    text   number                       text   boxNumber                    text   officialId_partner           text   name_partner                 text   firstName_partner            text   birthdate_partner            text   country_partner              text   zipCode_partner              text   municipality_partner_fr      text   municipality_partner_nl      text   street_partner_fr            text   street_partner_nl            text   number_partner               text   boxNumber_partner            text   coOwner                      text   anonymousOwner               text   dateSituation                text
 # -------------------------------------------------------------------------
-CSV_4_DEF adrespositie   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   ID                           int   ADRESID                      int   AARD                         int   OG_COORD_X                   float   OG_COORD_Y                   float   HERKOMST                     text   BEGINDATUM                   char(20)   EINDDATUM                    char(20)   TIJD                         char(20)   ORGANISATIE                  int   BEWERKING                    int   SSMA_TimeStamp               text
+CSV_1_DEF CRAB_RijksregisterStraat   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   StraatCode                   char(4)   StraatId                     char(5)   Straatnaam                   char(100)   SubkantonCode                char(4)   NISGemeenteCode              char(5)   Gemeente                     char(50)
 # -------------------------------------------------------------------------
-CSV_4_DEF BevReg_extr   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   POSTKODE                     char(4)   STRAATKODE                   char(8)   NUMMER                       char(5)   INDEX                        char(5)   GEBDAT                       char(11)   GESLACHT                     char(2)   NATIONALITEIT                number(4,0)   VERWERVING                   number(3,0)   REFPERS                      char(2)   GEZINSGROOTTE                number(3,0)   AANTKIND                     number(3,0)   BURGSTAAT                    char(15)   NAT_OUD                      number(4,0)   REGISTER                     char(6)   sector                       char(5)   stadsdeel                    char(16)   wijknaam                     char(30)   gemeensch                    char(12)
+CSV_1_DEF straatnaam   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   ID                           int   STRAATNAAMID                 int   STRAATCODE                   text   NISGEMEENTECODE              text   STRAATNAAM                   text   TAALCODESTRAATNAAM           text   STRAATNAAM2                  text   TAALCODESTRAATNAAM2          text   BEGINDATUM                   char(20)   EINDDATUM                    char(20)   TIJD                         char(20)   ORGANISATIE                  int   BEWERKING                    int
 # -------------------------------------------------------------------------
-CSV_4_DEF KAD_parcel   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   propertySituationIdf         number(8,0)   divCad                       number(5,0)   section                      text   primaryNumber                number(4,0)   bisNumber                    number(2,0)   exponentLetter               text   exponentNumber               number(3,0)   partNumber                   text   capakey                      text   order                        text   nature                       text   descriptPrivate              text   block                        text   floor                        text   floorSituation               text   crossDetail                  text   matUtil                      text   notTaxedMatUtil              text   street_situation             text   street_translation           text   number                       text   polWa                        text   surfaceNotTaxable            number(10,0)   surfaceTaxable               number(10,0)   surfaceVerif                 text   constructionYear             number(5,0)   soilIndex                    number(2,0)   soilRent                     text   cadastralIncomePerSurface    number(3,0)   cadastralIncomePerSurfaceOtherDi number(2,0)   numberCadastralIncome        number(1,0)   charCadastralIncome          text   cadastralIncome              number(8,0)   dateEndExoneration           text   decrete                      text   constructionIndication       number(4,0)   constructionType             text   floorNumberAboveground       number(2,0)   garret                       number(2,0)   physModYear                  number(5,0)   constructionQuality          text   garageNumber                 number(3,0)   centralHeating               number(2,0)   bathroomNumber               number(3,0)   housingUnitNumber            number(3,0)   placeNumber                  number(4,0)   builtSurface                 number(5,0)   usedSurface                  number(5,0)
+CSV_1_DEF KAD_parcel   csv_append_mode              INHERIT_FROM_WRITER   csv_field_names              INHERIT_FROM_WRITER   propertySituationIdf         number(8,0)   divCad                       number(5,0)   section                      text   primaryNumber                number(4,0)   bisNumber                    number(2,0)   exponentLetter               text   exponentNumber               number(3,0)   partNumber                   text   capakey                      text   order                        text   nature                       text   descriptPrivate              text   block                        text   floor                        text   floorSituation               text   crossDetail                  text   matUtil                      text   notTaxedMatUtil              text   nisCom                       text   street_situation             text   street_translation           text   street_code                  text   number                       text   polWa                        text   surfaceNotTaxable            number(10,0)   surfaceTaxable               number(10,0)   surfaceVerif                 text   constructionYear             number(5,0)   soilIndex                    number(2,0)   soilRent                     text   cadastralIncomePerSurface    number(3,0)   cadastralIncomePerSurfaceOtherDi number(2,0)   numberCadastralIncome        number(1,0)   charCadastralIncome          text   cadastralIncome              number(8,0)   dateEndExoneration           text   decrete                      text   constructionIndication       number(4,0)   constructionType             text   floorNumberAboveground       number(2,0)   garret                       number(2,0)   physModYear                  number(5,0)   constructionQuality          text   garageNumber                 number(3,0)   centralHeating               number(2,0)   bathroomNumber               number(3,0)   housingUnitNumber            number(3,0)   placeNumber                  number(4,0)   builtSurface                 number(5,0)   usedSurface                  number(5,0)   dateSituation                text
