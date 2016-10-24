@@ -18,7 +18,7 @@ Dit werk (<span property="dct:title">Dataproces Basisdata Bewoning</span>, by <s
 1.	Zorg dat je beschikt over een recente versie van FME (2016.1.1 of later). Een gratis 1 maand testlicentie kan je downloaden via <http://www.safe.com/>
 2.	Cre&euml;er een folder waarin het dataproces kan worden geplaatst (bvb . *C:\mijnfoldernaam*). Cre&euml;er in deze folder twee subdirectory&apos;s *fme* en *data*. Cre&euml;er binnen de folder data nog een subdirectory *input*. 
 3.	Download alle FME workspaces (.fmw) en plaats ze in de folder *\fme*. 
-4.	Verzamel de bronbestanden en schrijf ze naar de folder *\data\input*. Gebruik hiervoor de FME workspace 000_BEW_InputDataMapping.fmw. Op die manier bevatten de bronbestanden de juiste namen en datastructuren die noodzakelijk zijn voor het verdere proces. Meer info over de bronbestanden vind je onder Bronbestanden in [DOCUMENTATIE_BasisdataBewoning.pdf](DOCUMENTATIE_BasisdataBewoning.pdf). Houd steeds rekening met de toestandsdatum van de bronbestanden. 
+4.	Verzamel de bronbestanden en schrijf ze naar de folder *\data\input*. Gebruik hiervoor de FME workspace 000_BEW_InputDataMapping.fmw. Op die manier bevatten de bronbestanden de juiste namen en datastructuren die noodzakelijk zijn voor het verdere proces. In [ExampleData_fictive.zip](ExampleData_fictive.zip) vind je fictieve voorbeelddata met de gebruikte datastructuren. Meer info over de bronbestanden vind je onder Bronbestanden in [DOCUMENTATIE_BasisdataBewoning.pdf](DOCUMENTATIE_BasisdataBewoning.pdf). Houd steeds rekening met de toestandsdatum van de bronbestanden. 
  * BevReg_extr.csv
  * CRAB_RijksregisterStraat.shp
  * CRAB_Percelen_Centerpoints.shp
@@ -35,6 +35,7 @@ Dit werk (<span property="dct:title">Dataproces Basisdata Bewoning</span>, by <s
  * Toestand: geef de toestandsdatum (%Y%m%d)
  * GeolocatorRequestURL (optioneel): geef hier de url van de geolocator request (samenstelling volledige request, zie 001_BEW_BevolkingsReg_CRAB.fmw)
  * municipality: geef hier de naam van de gemeente (zoals weergegeven in de eigenaarsadressen in KADlegger_owner.csv)
+ * language: geef hier de taal van de gemeentenaam 
 7.	Start het proces. De resultaten bevinden zich na afloop in de folder *\data\output*. 
 
 ##Metadata
